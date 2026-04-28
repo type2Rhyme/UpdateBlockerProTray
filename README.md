@@ -29,7 +29,8 @@ Windows Update cannot be disabled by services, registry hacks, or “blocker” 
 Lightweight tray application with simple controls.  
 Auto‑startup, monitoring, and logging can be toggled instantly.
 
-![Tray Menu](https://raw.githubusercontent.com/type2Rhyme/UpdateBlockerProTray/main/UpdateBlockerProTray2.png)
+<img width="514" height="256" alt="UpdateBlockerProTray2" src="https://github.com/user-attachments/assets/ed550250-3702-49fb-b144-9a776f2cf7f3" />
+
 
 ---
 
@@ -38,7 +39,8 @@ Auto‑startup, monitoring, and logging can be toggled instantly.
 Shows every attempt by Windows Update to start wuauserv/UsoSvc,  
 and how the tool stops them instantly — even during forced update phases.
 
-![Tray Menu](https://raw.githubusercontent.com/type2Rhyme/UpdateBlockerProTray/main/UpdateBlockerProTray1.png)
+<img width="645" height="370" alt="UpdateBlockerProTray1" src="https://github.com/user-attachments/assets/2b79eb38-f875-413d-9427-32703dd77048" />
+
 
 ---
 
